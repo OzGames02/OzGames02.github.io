@@ -1,0 +1,67 @@
+.flex-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        flex-flow: row wrap;
+        background-color: blueviolet;
+        flex-wrap: nowrap;
+        }
+.flex-container2 {                
+        flex-direction: row;
+        justify-content: space-between;
+        flex-direction: row;
+        flex-wrap: wrap;
+        background-color: blueviolet;
+        display: flex;
+        }
+
+#navBar ul
+        {background-color: rgb(255, 255, 255);
+        width: 800px;
+        }
+
+#navBar ul li 
+        {display: inline;
+        overflow: hidden;
+        margin-right: 10px;
+        margin-left: 10px;
+        }
+
+#rightBar ul li
+        {display: inline;}
+
+
+#navBar a 
+        {font-size: 18px;
+        text-decoration: none;
+        font-weight: bold;}
+
+#navBar a:link
+        {color: rgb(250, 8, 8);}
+
+#navBar a:hover
+        {color: blue;
+        background-color: rgb(68, 68, 250);}
+
+#navBar a:visited
+        {color: rgb(199, 32, 199);}
+
+.flex-container1 {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-evenly;
+                flex-flow: row wrap;
+                background-color: blueviolet;
+                flex-wrap: nowrap;
+        }
+h1       {
+        font-size: 69px; font-style: oblique;
+        font-family: fantasy;
+        }
+
+
+
+
+
+
+
